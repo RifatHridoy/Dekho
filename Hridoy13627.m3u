@@ -1864,7 +1864,7 @@ https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Dekho New", BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="#kipedia/en/e/e8Dekho New.png" group-title="JADOO LIVE", Hum Masala
+#EXTINF:-1 tvg-logo="#kipedia/en/e/e8Dekho New.png" group-title="Dekho New", Hum Masala
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Dekho New", SONIC
@@ -1879,7 +1879,8 @@ https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Dekho New", BBC Cbeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="#kipedia/en/thumDekho NewportsLogo.png/240px-DDSportsLogo.png" group-title="JADOO LIVE", DD Sports
+#EXTINF:-1 tvg-logo="#kipedia/en/thumDekho NewportsLogo.png/240px-DDSportsLogo.png" group-title="Dekho New
+", DD Sports
 https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Dekho New", Al Jazeera
@@ -1903,7 +1904,7 @@ https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Dekho New", CNA
 https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="#m/dare_images/iDekho New_Tv_18.png" group-title="JADOO LIVE", CNBC TV
+#EXTINF:-1 tvg-logo="#m/dare_images/iDekho New_Tv_18.png" group-title="Dekho New", CNBC TV
 https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Dekho New", MTV Beats
