@@ -615,3 +615,241 @@ https://watchindia.net:8443/live/39824/59648/1921.ts
 https://watchindia.net:8443/live/39824/59648/1922.ts
 #EXTINF:-1,Kathamrut TV
 https://watchindia.net:8443/live/39824/59648/1923.ts
+
+
+#EXTINF:-1 tvg-logo="#kipedia/en/thumDekho NewportsLogo.png/240px-DDSportsLogo.png" group-title="Sports", DD Sports
+https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Ad Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Dhubai Racing
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Geo Super Sports
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Bein Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Extra 3" , PK Sports
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8 
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Ads Sports
+http://212.47.252.54/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 1
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 2
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 3
+http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 4
+http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 5
+http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 6
+http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 7
+http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 8
+http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 9
+http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+#EXTINF:-1 tvg-logo="#" group-title="Sports",BEIN SPORTS 10
+http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Sony Six(Offline)
+http://otv.ftpbd.net/streams/106/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Sony Ten 1 (Offline)
+http://otv.ftpbd.net/streams/105/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports 2
+http://otv.ftpbd.net/streams/116/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports Select 1
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports Select 1
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports Select 2
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports 1
+http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports 2
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports Select 1
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports Select 1
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Star Sports Select 2
+
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Geo Super Sports
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Ads Sports
+http://212.47.252.54/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+
+#EXTINF:-1 tvg-logo="#" group-title="Sports", Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", ASTRO SUPERSPORTS 1 FHD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18623.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", ASTRO SUPERSPORTS 2 FHD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18622.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", ASTRO SUPERSPORTS 3 FHD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18621.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", ASTRO SUPERSPORTS 4 FHD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18620.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Astro SuperSport 1 MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1366.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Astro SuperSport 2 HD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1365.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Astro SuperSport 3 HD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1364.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Astro SuperSport 4 HD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1161.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 1 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/74003.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 2 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73999.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 3 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73998.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 4 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73997.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 5 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73996.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 6 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73995.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 7 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73994.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 8 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73993.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport 9 FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73992.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", ASTRO SUPERSPORTS 3 FHD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18621.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", ASTRO SUPERSPORTS 4 FHD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18620.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Astro SuperSport 1 MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1366.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Supersport Blitz FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73991.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", SuperSport MáXimo FHD AF VIP
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/73990.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 1 HD AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/680.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 2 FHD AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/679.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 3 HD AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/678.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 4 HD AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/677.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 5 AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/5513.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 6 AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/5512.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport Kosova 1 AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/682.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport Kosova 2 AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/681.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport Kosova 1 FHD VIP AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/19449.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport Kosova 2 FHD VIP AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/19448.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport Kosova 3 FHD VIP AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/19447.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 1 FHD VIP AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/19446.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 2 FHD VIP AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/19445.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 3 FHD VIP AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/19444.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 3 HD AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/678.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 4 HD AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/677.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Dekho SuperSports", Super Sport 5 AL
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/5513.m3u8
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Extra 1", Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
+#EXTINF:-1 tvg-logo="#" group-title="Extra 1", Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
+
+#EXTINF:-1 tvg-logo="#" group-title="Extra 1", SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+
+#EXTINF:-1 tvg-logo="#" group-title="Extra 1", SONY TEN 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+
+#EXTINF:-1 tvg-logo="#" group-title="Extra 1", STAR SPORTS 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
