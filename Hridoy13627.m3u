@@ -930,3 +930,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 
 #EXTINF:-1 tvg-logo="#" group-title="Extra 1", STAR SPORTS 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+
+#EXTINF:-1, Nat Geo Bangla
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557 
